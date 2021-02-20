@@ -30,7 +30,7 @@ class _HomeScreenState extends State<HomeScreen>
         parent: _animationController,
 
         /// Curve argument:
-        /// يساعدنا على سرعة الأنميشين خلال الفترة المحددة
+        /// يساعدنا على تحديد سرعة الأنميشين خلال الفترة المحددة
         /// مثلا البداية سرعة الحركة أثناء بداية الأنميشين وعند النهاية
         curve: Curves.bounceIn,
       ),
